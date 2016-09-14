@@ -166,7 +166,7 @@ $(document).ready(function(){
 	var marker = new google.maps.Marker({
 	    position: myLatLng,
 	    map: map,
-	    title: 'Hello World!'
+	    title: 'You Can Find Me in the A'
 	  });
 
 	}
